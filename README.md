@@ -26,12 +26,14 @@ Check out the code from [here](https://github.com/NganMrn/ml-100d/blob/master/Co
 </p>
 
 ## Logistic Regression | Day 4
-
+(No code)
 <p align="center">
   <img src="https://github.com/NganMrn/ml-100d/blob/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## Logistic Regression | Day 5
+(No code)
+
 Moving forward into #100DaysOfMLCode today I dived into the deeper depth of what Logistic Regression actually is and what is the math involved behind it. Learned how cost function is calculated and then how to apply gradient descent algorithm to cost function to minimize the error in prediction.  
 Due to less time I will now be posting an infographic on alternate days.
 Also if someone wants to help me out in documentaion of code and already has some experince in the field and knows Markdown for github please contact me on LinkedIn :) .
@@ -73,6 +75,7 @@ I am also implementing the SVM in python using scikit-learn. Will update the cod
 
 ## Implementation of SVM | Day 14
 Today I implemented SVM on linearly related data. Used Scikit-Learn library. In Scikit-Learn we have SVC classifier which we use to achieve this task. Will be using kernel-trick on next implementation.
+
 Check the code [here](https://github.com/NganMrn/ml-100d/blob/master/Code/Day-13_SVM.md).
 
 ## Naive Bayes Classifier and Black Box Machine Learning | Day 15
